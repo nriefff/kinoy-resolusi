@@ -1,2 +1,4 @@
  Kinoy Resolusi
  - Belajar Laravel
+ - Membuat IT Inventory
+ - test
